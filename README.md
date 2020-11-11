@@ -1,6 +1,6 @@
 # Help-Desk-EDA
 
-#### Problem statement: This summary examines average daily call patterns and staffing efficiencies during a representative week. 
+#### Problem statement: Examine average daily call patterns and staffing efficiencies during a representative population in the sample dataset. 
 
 ![ScreenShot](https://github.com/Drev917/Help-Desk-EDA/blob/main/Staffing%20Slides/Staffing%201.JPG)
 

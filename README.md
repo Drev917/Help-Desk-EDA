@@ -14,7 +14,7 @@ Structure of the data is 60 observations of 3 columns:
 A quick summary of the data shows a total range of observable calls of 1,156, median value of 341, and a mean of 339 calls rounded as an integer.
 
 
-Looking at the data table comprehensively, we quickly noticed a few outliers and values that we determined as erroneous inputs. Recoded negatives and erroneous character variables.
+Looking at the data table comprehensively, we quickly noticed a few outliers and values that we determined as erroneous inputs. We recoded negatives integers and erroneous character variables.
 
 ![ScreenShot](https://github.com/Drev917/Help-Desk-EDA/blob/main/Staffing%20Slides/Staffing%203.JPG)
 
@@ -26,7 +26,7 @@ Our team decided to use the mean statistic for the data set as the best metric t
 
 ![ScreenShot](https://github.com/Drev917/Help-Desk-EDA/blob/main/Staffing%20Slides/Staffing%205.JPG)
 
-We can then present our major findings:
+We can then present our major findings below:
 
 ![ScreenShot](https://github.com/Drev917/Help-Desk-EDA/blob/main/Staffing%20Slides/Staffing%206.JPG)
 
@@ -34,6 +34,6 @@ And our recommendations for action:
 
 ![ScreenShot](https://github.com/Drev917/Help-Desk-EDA/blob/main/Staffing%20Slides/Staffing%207.JPG)
 
-Thanks for reading!
+Thank you for reading!
 
 ![ScreenShot](https://github.com/Drev917/Help-Desk-EDA/blob/main/Staffing%20Slides/Staffing%208.JPG)
